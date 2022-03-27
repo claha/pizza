@@ -1,0 +1,6 @@
+---
+dictionaryDefinitions:
+  - name: dictionary
+    path: ./dictionary.txt
+dictionaries:
+  - dictionary
