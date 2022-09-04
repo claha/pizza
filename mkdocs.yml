@@ -2,6 +2,5 @@
 site_name: Pizza
 site_url: https://claha.github.io/pizza/
 repo_url: https://github.com/claha/pizza/
-docs_dir: .
-site_dir: .
-
+docs_dir: ./
+site_dir: ./
