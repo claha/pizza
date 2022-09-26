@@ -1,4 +1,5 @@
 claes
+codespell
 hallström
 mkdocs
 poolish
