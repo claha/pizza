@@ -1,5 +1,6 @@
 claes
 codespell
 hallström
+markdownlint
 mkdocs
 poolish
