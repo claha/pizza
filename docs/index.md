@@ -1,6 +1,10 @@
 # Pizza Dough
 
-My favorite pizza dough recipe.
+The following is an all-time favorite pizza dough recipe that has been perfected
+through years of experimentation and tweaking. The recipe consistently produces a
+delicious crust that is both crispy and chewy, making it an excellent choice for
+both experienced and novice pizza makers. It is highly recommended for anyone looking
+to make their own pizza dough.
 
 ## Poolish Dough Base
 
@@ -35,10 +39,10 @@ My favorite pizza dough recipe.
 | Ingredients  | Poolish Dough Base (grams) | X Dough Balls (grams) |
 | ------------ | -------------------------- | --------------------- |
 | Fresh Yeast  | 10                         | -                     |
-| Cold Water   | 300                        | 25 • X                |
+| Cold Water   | 300                        | 100 • X - 300         |
 | Honey        | 5                          | -                     |
-| Flour        | 300                        | 75 • X                |
+| Flour        | 300                        | 150 • X - 300         |
 | Salt         | -                          | 4 • X                 |
 
 The table above shows the amounts of ingredients needed for the poolish dough base
-and dough.
+and dough. Note that the minimum number of balls that can be made is four (4).
