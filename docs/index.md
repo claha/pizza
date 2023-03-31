@@ -8,8 +8,8 @@ to make their own pizza dough.
 
 ## Poolish Dough Base
 
-- Refer to the table below for the amounts of fresh yeast, cold water, honey,
-  and flour needed to make the poolish dough base.
+- To make the poolish dough base, use the amounts (in grams) of **fresh** yeast,
+  **cold** water, honey, and flour specified in the table below.
 - In a mixing bowl, combine fresh yeast and cold water until well mixed.
 - Add honey and flour, and stir everything together.
 - Cover the bowl with a lid or plastic wrap and let it sit at room temperature
@@ -17,10 +17,14 @@ to make their own pizza dough.
 - Transfer the mixture to the fridge and let it sit for 16-24 hours.
 - Remove the poolish from the fridge 30 minutes before making the dough.
 
+| Water | Flour | Yeast | Honey |
+|-------|-------|-------|-------|
+|   300 |   300 |    10 |     5 |
+
 ## Dough Preparation
 
-- Refer to the table below for the amounts of cold water, flour, and salt needed
-  to make the dough.
+- To make the poolish dough base, use the amounts (in grams) of **cold** water, flour,
+  and salt specified in the table below.
 - Combine the poolish and water in a mixing bowl, and stir to combine.
 - Add salt and flour, and mix everything together by hand or using a dough machine.
 - Cover the dough and let it rest for 15 minutes.
@@ -34,15 +38,24 @@ to make their own pizza dough.
 - Divide the dough into the desired number of balls and let them rest at room temperature
   for about 2 hours before making the pizza.
 
-## Table
+| Balls | Water | Flour | Salt |
+|-------|-------|-------|------|
+|     3 |     0 |   150 |   12 |
+|     4 |   100 |   300 |   16 |
+|     5 |   200 |   450 |   20 |
+|     6 |   300 |   600 |   24 |
+|     7 |   400 |   750 |   28 |
+|     8 |   500 |   900 |   32 |
+|     9 |   600 |  1050 |   36 |
+|    10 |   700 |  1200 |   40 |
 
-| Ingredients  | Poolish Dough Base (grams) | X Dough Balls (grams) |
-| ------------ | -------------------------- | --------------------- |
-| Fresh Yeast  | 10                         | -                     |
-| Cold Water   | 300                        | 100 • X - 300         |
-| Honey        | 5                          | -                     |
-| Flour        | 300                        | 150 • X - 300         |
-| Salt         | -                          | 4 • X                 |
+### Math
 
-The table above shows the amounts of ingredients needed for the poolish dough base
-and dough. Note that the minimum number of balls that can be made is four (4).
+To make *X* dough balls (each 250 grams) the following formulas can be used to
+calculate the amount of **cold** water, flour, and salt.
+
+| Ingredients | Formula         |
+|-------------|-----------------|
+| Water       | 100 · *X* - 300 |
+| Flour       | 150 · *X* - 300 |
+| Salt        | 4 · *X*         |
