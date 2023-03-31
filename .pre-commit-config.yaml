@@ -15,7 +15,7 @@ repos:
           - --fix=lf
       - id: check-yaml
       - id: file-contents-sorter
-        files: dictionary
+        files: .gitignore|dictionary
         args:
           - --unique
 

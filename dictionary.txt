@@ -4,3 +4,4 @@ hallström
 markdownlint
 mkdocs
 poolish
+venv
