@@ -1,7 +1,7 @@
 ---
 repos:
   - repo: https://github.com/python-jsonschema/check-jsonschema
-    rev: 0.22.0
+    rev: 0.23.2
     hooks:
       - id: check-github-workflows
 
@@ -20,7 +20,7 @@ repos:
           - --unique
 
   - repo: https://github.com/adrienverge/yamllint
-    rev: v1.30.0
+    rev: v1.32.0
     hooks:
       - id: yamllint
         args:
@@ -32,16 +32,16 @@ repos:
       - id: cspell
 
   - repo: https://github.com/codespell-project/codespell
-    rev: v2.2.4
+    rev: v2.2.5
     hooks:
       - id: codespell
 
   - repo: https://github.com/crate-ci/typos
-    rev: v1.14.3
+    rev: v1.15.0
     hooks:
       - id: typos
 
   - repo: https://github.com/igorshubovych/markdownlint-cli
-    rev: v0.33.0
+    rev: v0.35.0
     hooks:
       - id: markdownlint
