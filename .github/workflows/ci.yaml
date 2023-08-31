@@ -17,3 +17,11 @@ jobs:
         with:
           python-version: 3.x
       - uses: pre-commit/action@v3.0.0
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3.6.0
+      - uses: actions/setup-python@v4.7.0
+        with:
+          python-version: 3.x
+      - run: make build
