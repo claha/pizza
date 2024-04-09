@@ -37,7 +37,7 @@ repos:
       - id: codespell
 
   - repo: https://github.com/crate-ci/typos
-    rev: v1.20.5
+    rev: v1.20.7
     hooks:
       - id: typos
 
